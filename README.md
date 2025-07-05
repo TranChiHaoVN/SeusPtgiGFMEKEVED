@@ -9,7 +9,7 @@
 
 1.  Navigate to the **Patcher Site**: [https://projects.jbritain.net/patchbin/](https://projects.jbritain.net/patchbin/)
 2.  **Upload Original File:** Under "Original File," select the `SEUS PTGI HRR 2.1 zip` file you downloaded.
-3.  **Upload Patch File:** In the "Patch File" section, upload the `.bin` file you downloaded from our releases.
+3.  **Upload Patch File:** In the "Patch File" section, upload the `.bin` file you downloaded from my releases.
 4.  **Apply Patch:** Click the "Apply patch" button. A new patched `.zip` file will automatically download.
 5.  **Install Shader:** Drag and drop this newly downloaded `.zip` file into your Minecraft `shaderpacks` folder.
 

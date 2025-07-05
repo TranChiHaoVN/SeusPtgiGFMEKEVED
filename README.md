@@ -47,3 +47,5 @@ Any purposes not explicitly covered by the SEUS license are subject to its terms
 ![Ingame Images](2025-07-05_14.47.55.png)
 ![Ingame Images](2025-07-05_14.48.12.png)
 ![Ingame Images](2025-07-05_14.48.40.png)
+
+## MADE IN VIETNAM :vn:

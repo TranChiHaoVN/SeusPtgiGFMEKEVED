@@ -20,7 +20,7 @@ You're all set!
 ## Credits
 
 * **Josh:** For the amazing [patcher website](https://projects.jbritain.net/patchbin/)!
-* **GeforceLegend:** For the base edited SEUS shader!
+* **GeforceLegend:** For the [base edited SEUS shader!](https://github.com/GeForceLegend/SEUS_PTGI_GFME)
 
 ---
 
